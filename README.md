@@ -21,7 +21,7 @@
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
-![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=ApolloDev0&theme=synthwave&show_icons=true)]
+![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=ApolloDev0&theme=synthwave&show_icons=true)
 
 ![Ahmed's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=ApolloDev0&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
