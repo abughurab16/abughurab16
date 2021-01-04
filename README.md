@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### The Name's Ahmed And i ~~like Coding~~ code.
+#### My Name is Ahmed And i ~~like Coding~~ code.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apollodev0&label=Profile%20views&color=0e75b6&style=flat" alt="apollodev0" /> </p>
 
