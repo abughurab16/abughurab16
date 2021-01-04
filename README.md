@@ -22,7 +22,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
 ![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=ApolloDev0&theme=synthwave&show_icons=true)
-
 ![Ahmed's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=ApolloDev0&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
 ![Ahmed's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ApolloDev0&show_icons=true&locale=en&layout=compact&theme=gruvbox)
