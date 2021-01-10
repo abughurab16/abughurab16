@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apollodev0&label=Profile%20views&color=0e75b6&style=flat" alt="apollodev0" /> </p>
 
-- 🌱 I’m currently learning **Javascript and Web development Essentials**
+- 🌱 I’m currently learning **Javascript and Css and Basically everything Frontend. ** And also *The **Nim** Programming Language*
 
 - 👨‍💻 All of my projects are available at [https://github.com/ApolloDev0](https://github.com/ApolloDev0)
 
