@@ -25,7 +25,7 @@
 
 
 ![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=ApolloDev0&theme=synthwave&show_icons=true&)
-![Ahmed's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=ApolloDev0&show_icons=true&locale=en&layout=demo&theme=gruvbox&langs_count=8)
+![Ahmed's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=ApolloDev0&show_icons=true&locale=en&layout=demo&theme=gruvbox&langs_count=8&hide=c%23,java)
 ![Ahmed's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ApolloDev0&show_icons=true&locale=en&layout=demot&theme=gruvbox)
 
 
