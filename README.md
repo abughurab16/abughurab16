@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apollodev0&label=Profile%20views&color=0e75b6&style=flat" alt="apollodev0" /> </p>
 
-- 🌱 I’m currently on the path to becoming a **Data Scientist**
+- 🌱 I’m currently participating in the #66DaysofData initiated by ken-jee.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ApolloDev0](https://github.com/ApolloDev0)
 
