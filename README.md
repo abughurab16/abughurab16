@@ -9,15 +9,15 @@
 - 🌱 I’m currently participating in the #66DaysofData initiated by ken-jee.
 
 <img src="66DaysofDataBG.jpg">
-<hr>
-<hr>
+
+
 - 👨‍💻 All of my projects are available at https://github.com/ApolloDev0
-<hr>
-<hr>
+
+
 
 📫  How to reach me **leapollo2005@gmail.com**
-<hr>
-<hr>
+
+
 
 <h3 align="left">Confident With</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -45,3 +45,5 @@
 
 **Visitors Count**
 ![VisitorCount](https://profile-counter.glitch.me/{ApolloDev0}/count.svg)
+
+*apollo was here*
