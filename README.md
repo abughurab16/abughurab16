@@ -26,7 +26,7 @@
 <h3 align="left">Currently Learning</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
     
-<img src="https://en.wikipedia.org/wiki/Vala_(programming_language)#/media/File:Vala_Logo.svg" alt="Vala Logo" width="40" height="40"/>
+<img src="./vala-image.svg.png" alt="Vala Logo" width="40" height="40"/>
 
 <h3><a href="https://github.com/ApolloDev0?tab=followers">
     <img src="https://img.shields.io/github/followers/ApolloDev0?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
