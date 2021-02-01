@@ -3,9 +3,6 @@
 ## My Name is Ahmed And i ~~like Coding~~ code.
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apollodev0&label=Profile%20views&color=0e75b6&style=flat" alt="apollodev0" /> </p>
-
 - 🌱 I’m currently participating in the #66DaysofData initiated by ken-jee.
 
 <img src="66DaysofDataBG.jpg">
