@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently participating in the #66DaysofData initiated by ken-jee.
 
-<img src="66DaysofDataBG.jpg">
 
 
 - 👨‍💻 All of my projects are available at https://github.com/ApolloDev0
