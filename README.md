@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Muhammed Galadima</h1>
 <h3 align="center">An aspiring developer of somesorts.not sure yet 🤷🏽‍♂️</h3>
 
-<p align="left"> <a href="https://twitter.com/ahmedmuhammedg2" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmuhammedg2?logo=twitter&style=for-the-badge" alt="ahmedmuhammedg2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ahmedmuhammedg2" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmuhammedg2?logo=twitter&style=for-the-badge" alt="ahmedmuhammedg2" /></a>
+<a href="https://github.com/ApolloDev0?tab=followers">
+    <img src="https://img.shields.io/github/followers/ApolloDev0?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+ </a>
+</p>
 
 - 🌱 I’m currently learning **Vala, Javascript, React,Discord.js**
 
@@ -46,9 +50,7 @@
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="80" height="80"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80"/> </a>
 </p>
 
-<h3><a href="https://github.com/ApolloDev0?tab=followers">
-    <img src="https://img.shields.io/github/followers/ApolloDev0?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
- </a></h3>
+
  
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
