@@ -28,7 +28,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/></a>
   <a href="https://nim-lang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/nim-lang/assets/master/Art/logo-crown.png" alt="nim-lang" width="80" height="80"/></a>
+  <img src="./nim-lang.png" alt="nim-lang" width="80" height="80"/></a>
 </p>
 
 <h3 align="Center">On My ToLearn List:</h3>
