@@ -50,7 +50,7 @@
 
 
 ![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=ApolloDev0&theme=synthwave&show_icons=true&layout=demo)
-![Ahmed's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=ApolloDev0&show_icons=true&locale=en&layout=demo&theme=gruvbox&langs_count=8&hide=c%23,Vim%20script,nim,html,css)
+![Ahmed's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=ApolloDev0&show_icons=true&locale=en&layout=demo&theme=gruvbox&langs_count=5)
 ![Ahmed's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ApolloDev0&show_icons=true&locale=en&layout=demo&theme=gruvbox)
 
 
