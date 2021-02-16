@@ -2,9 +2,6 @@
 <h3 align="center">An aspiring front-end web-designer/developer,🤷</h3>
 
 <p align="left"> <a href="https://twitter.com/ahmedmuhammedg2" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmuhammedg2?logo=twitter&style=for-the-badge" alt="ahmedmuhammedg2" /></a>
-<a href="https://github.com/ApolloDev0?tab=followers">
-    <img src="https://img.shields.io/github/followers/ApolloDev0?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
- </a>
 </p>
 
 - 🌱 I’m currently learning Front-end development with [stackademic](http://stackademic.com/)
