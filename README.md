@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/ahmedmuhammedg2" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmuhammedg2?logo=twitter&style=for-the-badge" alt="ahmedmuhammedg2" /></a>
 </p>
 
-- 🌱 I’m currently learning Front-end development with [stackademic](http://stackademic.com/) And game development with C
+- 🌱 I’m currently learning Front-end development with [stackademic](http://stackademic.com/) And game development with C Using SDL
 
 - 👨‍💻 All of my projects are available at [https://github.com/ApolloDev0](https://github.com/ApolloDev0)
 
@@ -47,7 +47,7 @@
 
 
 ![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=ApolloDev0&theme=synthwave&show_icons=true&layout=demo)
-![Ahmed's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=ApolloDev0&show_icons=true&locale=en&layout=demo&theme=gruvbox&langs_count=3&hide=Vim%20script,python,css,html)
+![Ahmed's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=ApolloDev0&show_icons=true&locale=en&layout=demo&theme=gruvbox&langs_count=5&hide=Vim%20script,python,css,html)
 ![Ahmed's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ApolloDev0&show_icons=true&locale=en&layout=demo&theme=gruvbox)
 
 
