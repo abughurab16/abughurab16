@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Muhammed Galadima</h1>
-<h3 align="center">An aspiring front-end web-designer/developer,🤷 And game developer hobbyist</h3>
+<h3 align="center">An aspiring game developer and sometimes i do web frontend web development</h3>
 
 <p align="left"> <a href="https://twitter.com/ahmedmuhammedg2" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmuhammedg2?logo=twitter&style=for-the-badge" alt="ahmedmuhammedg2" /></a>
 </p>
