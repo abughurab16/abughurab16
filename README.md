@@ -23,17 +23,12 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczh4ruxuqwoaeonqdqnvuyw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uczh4ruxuqwoaeonqdqnvuyw" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools I'm Working With Right Now:</h3>
+<h3 align="left">Languages and Tools I'm Learning: </h3>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/></a>
   <a href="https://nim-lang.org/" target="_blank">
   <img src="./nim-lang.png" alt="nim-lang" width="80" height="80"/></a>
-</p>
-
-<h3 align="Center">On My ToLearn List:</h3>
-<p>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="80" height="80"/> </a> 
  <a href="https://libsdl.org/index.php/" target="_blank"> <img src="https://www.libsdl.org/media/SDL_logo.png" alt-"sdl2" width="80" height="80" /> </a>
 </p>
 
