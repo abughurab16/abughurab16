@@ -35,6 +35,7 @@
 <p>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="80" height="80"/> </a> 
+ <a href="https://libsdl.org/index.php/" target="_blank"> <img src="https://www.libsdl.org/media/SDL_logo.png" alt-"sdl2" width="80" height="80 /> </a>
 </p>
 
 
