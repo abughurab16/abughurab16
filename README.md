@@ -32,6 +32,7 @@
  <a href="https://libsdl.org/index.php/" target="_blank"> <img src="https://www.libsdl.org/media/SDL_logo.png" alt-"sdl2" width="80" height="80" /> </a>
 </p>
 
+<br>
 
  
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
