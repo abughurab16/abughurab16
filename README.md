@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Muhammed Galadima</h1>
-<h3 align="center">An aspiring game developer and sometimes i do web frontend web development</h3>
+<h3 align="center">Aspiring Game Dev and Computer graphics developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/ahmedmuhammedg2" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmuhammedg2?logo=twitter&style=for-the-badge" alt="ahmedmuhammedg2" /></a>
 </p>
 
-- 🌱 I’m currently learning Front-end development with [stackademic](http://stackademic.com/) And Game developmen with Godot Game Engine (and sometimes C with SDL2)
+- 🌱 I’m currently Game development with Godot Game Engine (and sometimes SDL2 with C)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ApolloDev0](https://github.com/ApolloDev0)
 
@@ -26,9 +26,6 @@
 <h3 align="left">Languages and Tools I'm Learning: </h3>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/></a>
-  <!-- <a href="https://nim-lang.org/" target="_blank">
-  <img src="./nim-lang.png" alt="nim-lang" width="80" height="80"/></a> --> 
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
  <a href="https://libsdl.org/index.php/" target="_blank"> <img src="https://www.libsdl.org/media/SDL_logo.png" alt-"sdl2" width="80" height="80" /> </a>
 </p>
 
