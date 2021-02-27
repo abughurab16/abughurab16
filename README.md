@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools I'm Learning: </h3>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="80" height="80"/></a>
  <a href="http://lua.org/" ><img src="https://ayobamiadewole.com/Blog/Images/lua1.jpg"  height="80" width="80" alt="lua" /> </a>
  <a href="lo"><img src="https://lutris.net/media/games/icons/love-app-0.10.png" width="80" height="80" alt="love2d" /> </a>
  <a href="https://libsdl.org/index.php/" target="_blank"> <img src="https://www.libsdl.org/media/SDL_logo.png" alt-"sdl2" width="80" height="80" /></a>
