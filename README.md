@@ -24,11 +24,10 @@
 </p>
 
 <h3 align="left">Languages and Tools I'm Learning: </h3>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/></a>
- <a href="https://libsdl.org/index.php/" target="_blank"> <img src="https://www.libsdl.org/media/SDL_logo.png" alt-"sdl2" width="80" height="80" /></a>
  <a href="cplusplus.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank" width="80" height="80" /></a>
  <a href="godotengine.org" ><img src="https://godotengine.org/themes/godotengine/assets/logo.svg"  height="80" width="80" /> </a>
+ <a href="https://libsdl.org/index.php/" target="_blank"> <img src="https://www.libsdl.org/media/SDL_logo.png" alt-"sdl2" width="80" height="80" /></a>
 </p>
 
 <br>
