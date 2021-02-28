@@ -46,7 +46,6 @@
 ![Ahmed's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ApolloDev0&show_icons=true&locale=en&layout=demo&theme=gruvbox)
 
 
-**Visitors Count**
 ![VisitorCount](https://profile-counter.glitch.me/{ApolloDev0}/count.svg)
 
 *apollo was here*
