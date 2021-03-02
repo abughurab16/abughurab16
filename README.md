@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/ahmedmuhammedg2" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmuhammedg2?logo=twitter&style=for-the-badge" alt="ahmedmuhammedg2" /></a>
 </p>
 
-- 🌱 I’m currently Game development with Love2D or SDL2 with C++.
+- 🌱 I’m currently Game development with Love2D or SDL with C.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ApolloDev0](https://github.com/ApolloDev0)
 
@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools I'm Learning: </h3>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="80" height="80"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80" height="80"/></a>
  <a href="http://lua.org/" ><img src="https://ayobamiadewole.com/Blog/Images/lua1.jpg"  height="80" width="80" alt="lua" /> </a>
  <a href="lo"><img src="https://lutris.net/media/games/icons/love-app-0.10.png" width="80" height="80" alt="love2d" /> </a>
  <a href="https://libsdl.org/index.php/" target="_blank"> <img src="https://www.libsdl.org/media/SDL_logo.png" alt-"sdl2" width="80" height="80" /></a>
