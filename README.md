@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Muhammed Galadima</h1>
-<h3 align="center">Aspiring Game Dev and Computer graphics developer.</h3>
+<h3 align="center">Aspiring Game Dev</h3>
 
 <p align="left"> <a href="https://twitter.com/ahmedmuhammedg2" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmuhammedg2?logo=twitter&style=for-the-badge" alt="ahmedmuhammedg2" /></a>
 </p>
 
-- 🌱 I’m currently Game development with Love2D or SDL with C.
+- 🌱 I’m currently Learning Game development with Love2D or SDL with C.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ApolloDev0](https://github.com/ApolloDev0)
 
