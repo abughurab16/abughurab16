@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Muhammed Galadima</h1>
 <h3 align="center">Game and Graphics Developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/ahmedmuhammedg2" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmuhammedg2?logo=twitter&style=for-the-badge" alt="ahmedmuhammedg2" /></a>
+<p align="left"> <a href="https://twitter.com/AhmedMuhammedG2" target="blank"><img src="https://img.shields.io/twitter/follow/AhmedMuhammedG2?logo=twitter&style=for-the-badge" alt="AhmedMuhammedG2"/></a>
 </p>
 
-- 🌱 I Like Learning  Game Development and Graphics Development, My Favourite language is C
+- 🌱 I Am a  Game Developer and Graphics Developer My Favourite languages Are C and Julia
 
 - 👨‍💻 All of my projects are available at [https://github.com/ApolloDev0](https://github.com/ApolloDev0)
 
@@ -22,8 +22,10 @@
 </p>
 
 
-<h3 align="left">Languages and Tools I'm Learning: </h3>
+<h3 align="left">Languages I'm Familiar with</h3>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.julialang.org" target="_blank"> <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="40" height="40 /> </a>
 </p>
 
 
