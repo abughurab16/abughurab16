@@ -33,7 +33,8 @@
 <br>
 
 
-![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=ApolloDev0&theme=synthwave&show_icons=true&layout=demo)\
+![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=ApolloDev0&theme=synthwave&show_icons=true&layout=demo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloDev0&hide=javascript,html)](https://github.com/ApolloDev0/github-readme-stats)
 
 
 
