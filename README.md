@@ -23,16 +23,14 @@
 
 
 <h3 align="left">Languages I'm Familiar with</h3>
+<p>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.julialang.org" target="_blank"> <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="40" height="40 /> </a>
+<a href="https://www.julialang.org" target="_blank"> <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="40" height="40/></a>
 </p>
 
 
 <br>
-<br>
-
-
 
  
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
