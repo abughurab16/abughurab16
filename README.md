@@ -32,19 +32,10 @@
 
 <br>
 
- 
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
-![Craving for open source](https://img.shields.io/badge/-I%27m_craving_for_open_source-green?style=for-the-badge&logo=github&logoColor=black)
+
+![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=ApolloDev0&theme=synthwave&show_icons=true&layout=demo)\
 
 
-![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=ApolloDev0&theme=synthwave&show_icons=true&layout=demo)
-![Ahmed's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ApolloDev0&show_icons=true&locale=en&layout=demo&theme=gruvbox)
-
-
-![VisitorCount](https://profile-counter.glitch.me/{ApolloDev0}/count.svg)
 
 *apollo was here*
 
