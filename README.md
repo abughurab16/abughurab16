@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/AhmedMuhammedG2" target="blank"><img src="https://img.shields.io/twitter/follow/AhmedMuhammedG2?logo=twitter&style=for-the-badge" alt="AhmedMuhammedG2"/></a>
 </p>
 
-- 🌱 I Am a  Game Developer and Graphics Developer My Current language of choice is C++ for game and graphics development.
+- 🌱 I Am a  Developer and i like visual mathmatics.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ApolloDev0](https://github.com/ApolloDev0)
 
