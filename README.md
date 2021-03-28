@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/AhmedMuhammedG2" target="blank"><img src="https://img.shields.io/twitter/follow/AhmedMuhammedG2?logo=twitter&style=for-the-badge" alt="AhmedMuhammedG2"/></a>
 </p>
 
-- 🌱 I Am a  Developer and i like visual mathmatics.
+- 🌱 I Am a  Developer that mainly uses JuliaLang for Computations and soon plan to make a **game engine** in Julia.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ApolloDev0](https://github.com/ApolloDev0)
 
@@ -26,7 +26,7 @@
 <p>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80" height="80"/></a>
 <a href="https://www.julialang.org" target="_blank"> <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="80" height="80"/> </a>
-> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
 </p>
 
 
