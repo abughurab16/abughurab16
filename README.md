@@ -6,7 +6,7 @@
 
 - 🌱 I Am an Aspiring Graphics |And Web Developer. I focus on html/css/js and in my freetime i do some C++.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ApolloDev0](https://github.com/AxiomApollo)
+- 👨‍💻 All of my projects are available at [https://github.com/AxiomApollo](https://github.com/AxiomApollo)
 
 - 📝 I regularly write articles on [https://leapollo.hashnode.dev/](https://leapollo.hashnode.dev/)
 
@@ -32,8 +32,8 @@
 <br>
 
 
-![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=AxiomApollov0&theme=synthwave&show_icons=true&layout=demo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxiomApollo0&hide=&exclude_repo=Neovim-Config,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AxiomApollo/github-readme-stats)
+![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=AxiomApollo&theme=synthwave&show_icons=true&layout=demo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxiomApollo&hide=&exclude_repo=Neovim-Config,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AxiomApollo/github-readme-stats)
 
 
 
