@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/AhmedMuhammedG2" target="blank"><img src="https://img.shields.io/twitter/follow/AhmedMuhammedG2?logo=twitter&style=for-the-badge" alt="AhmedMuhammedG2"/></a>
 </p>
 
-- 🌱 I Am an Aspiring Graphics |And Web Developer. I focus on html/css/js and in my freetime i do some C++.
+- 🌱 I Am a Developer. I focus mainly on html/css/js and some go/julia for fun and for my graphics related stuff i do  C++.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AxiomApollo](https://github.com/AxiomApollo)
 
