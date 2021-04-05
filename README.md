@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/AhmedMuhammedG2" target="blank"><img src="https://img.shields.io/twitter/follow/AhmedMuhammedG2?logo=twitter&style=for-the-badge" alt="AhmedMuhammedG2"/></a>
 </p>
 
-- 🌱 I Am an Aspiring Graphics || Games Developer. I mainly use C++ and Julia.
+- 🌱 I Am an Aspiring Graphics |And Web Developer. I focus on html/css/js and in my freetime i do some C++.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ApolloDev0](https://github.com/ApolloDev0)
 
@@ -22,7 +22,7 @@
 </p>
 
 
-<h3 align="left">Languages I'm Familiar with</h3>
+<h3 align="left">Languages And Toos I'm Familiar with Or Learning.</h3>
 <p>
 <a href="https://www.julialang.org" target="_blank"> <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="100" height="100"/> </a>
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> </a>
