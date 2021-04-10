@@ -35,7 +35,7 @@
 
 
 ![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=AxiomApollo&theme=tokyonight&show_icons=true&layout=demo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxiomApollo&hide=html,css,Vimscript&exclude_repo=Neovim-Config,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AxiomApollo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxiomApollo&hide=html,css,Vimscript&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AxiomApollo/github-readme-stats)
 
 
 
