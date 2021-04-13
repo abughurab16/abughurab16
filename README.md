@@ -22,10 +22,9 @@
 </p>
 
 
-<h3 align="left">Languages I know And Like.</h3>
+<h3 align="left">Languages I Like.</h3>
 <p>
  <a href="https://vlang.io" target="_blank"> <img src="https://vlang.io/img/v-logo.png" alt="vlang" width="80" height="80"/></a>
- <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="80" height="80"/></a> 
 <a href="https://www.julialang.org" target="_blank"> <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="80" height="80"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img 
 </p>
