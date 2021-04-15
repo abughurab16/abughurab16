@@ -35,6 +35,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing V](https://leapollo.hashnode.dev/introducing-v)
 - [Deploying With Netlify!](https://leapollo.hashnode.dev/deploying-with-netlify)
 - [Setting Up Live Server Vs-code](https://leapollo.hashnode.dev/setting-up-live-server-vs-code)
 - [How The Web Works?](https://leapollo.hashnode.dev/how-the-web-works)
