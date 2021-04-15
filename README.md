@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **leapollo2005@gmail.com**
 
+- Fun Fact: I use Tabs.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
