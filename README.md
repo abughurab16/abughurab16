@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Muhammed Galadima</h1>
 <h3 align="center">Maths is cool.</h3>
 
-<p align="left"> <a href="https://twitter.com/axiomapollo" target="blank"><img src="https://img.shields.io/twitter/follow/AhmedMuhammedG2?logo=twitter&style=for-the-badge" alt="AhmedMuhammedG2"/></a>
+<p align="left"> <a href="https://twitter.com/AxiomApollo" target="blank"><img src="https://img.shields.io/twitter/follow/AxiomApollo?logo=twitter&style=for-the-badge" alt="AhmedMuhammedG2"/></a>
 </p>
 
 - 🌱 I Am a ~16 year old Developer with interests in Computational Maths , Compiler Development And Computer Graphics.
