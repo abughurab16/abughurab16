@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/AxiomApollo" target="blank"><img src="https://img.shields.io/twitter/follow/AxiomApollo?logo=twitter&style=for-the-badge" alt="AhmedMuhammedG2"/></a>
 </p>
 
-- 🌱 I Am a ~16 year old Developer with interests in Computational Maths , Compiler Development And Computer Graphics.
+- 🌱 I Am a ~16 year old Developer with interests in Computer Graphics, Maths and Roblox.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AxiomApollo](https://github.com/AxiomApollo)
 
