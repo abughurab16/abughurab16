@@ -28,8 +28,7 @@
 <p>
  <a href="https://vlang.io" target="_blank"> <img src="https://vlang.io/img/v-logo.png" alt="vlang" width="80" height="80"/></a>
 <a href="https://www.julialang.org" target="_blank"> <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="80" height="80"/> </a>
- <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" widht="80" height="80" alt="C"/>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img 
+ <a href="https://www.cplusplus.com/doc/tutorial/"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" widht="80" height="80" alt="C++"/>
 </p>
 
 
