@@ -27,8 +27,8 @@
 <h3 align="left">Languages I Like.</h3>
 <p>
  <a href="https://vlang.io" target="_blank"> <img src="https://vlang.io/img/v-logo.png" alt="vlang" width="80" height="80"/></a>
- <a href="https://www.cplusplus.com/doc/tutorial/"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" width="80" height="80" alt="C++"/> </a>
- <a href="https://dart.dev"><img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" width="80" height="80" /> </a>
+ <a href="https://www.cplusplus.com/doc/tutorial/"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" width="80" height="80" alt="C++"/></a>
+ <a href="https://www.reactnative.dv"><img src="https://reactnative.dev/img/header_logo.svg" width="80" height="80"/></a>
 </p>
 
 
