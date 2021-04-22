@@ -43,7 +43,7 @@
 <br>
 
 
-![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=AhmedsAxiomso&theme=tokyonight&show_icons=true&layout=demo)
+![Apollo's github stats](https://github-readme-stats.vercel.app/api?username=AhmedsAxioms&theme=tokyonight&show_icons=true&layout=demo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedsAxioms&hide=html,css,Vimscript&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AhmedsAxioms/github-readme-stats)
 
 
