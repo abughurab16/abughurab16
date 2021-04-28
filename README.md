@@ -27,9 +27,7 @@
 <h3 align="left">Languages I use.</h3>
 <p>
  <a href="https://vlang.io" target="_blank"> <img src="https://vlang.io/img/v-logo.png" alt="vlang" width="80" height="80"/></a>
- <a href="https://www.php.net"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" width="80" height="80" alt="Php"/></a>
- <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="80" height="80" />
- <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="80" widht="80" />                                                               <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="80" widht="80" />                                                                                                              
+ <a href="cprogramming.com"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" width="80" height="80"/></a>
 </p>
 
 
