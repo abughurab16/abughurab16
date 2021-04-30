@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/AhmedsAxioms" target="blank"><img src="https://img.shields.io/twitter/follow/AhmedsAxioms?logo=twitter&style=for-the-badge" alt="AhmedMuhammedG2"/></a>
 </p>
 
-- 🌱 I A Wordpress Developer And a V,Python Writer.
+- 🌱 I Write stuff on V, Julia and i like the idea of becoming a data scientist.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AxiomApollo](https://github.com/AxiomApollo)
 
@@ -27,7 +27,7 @@
 <h3 align="left">Languages I use.</h3>
 <p>
  <a href="https://vlang.io" target="_blank"> <img src="https://vlang.io/img/v-logo.png" alt="vlang" width="80" height="80"/></a>
- <a href="python.org"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="80" height="80"/></a>
+ <a href="julialang.org"><img src="https://julialang.org/assets/infra/logo.svg" width="80" height="80" alt="julia" /></a>
 </p>
 
 
