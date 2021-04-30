@@ -28,6 +28,7 @@
 <p>
  <a href="https://vlang.io" target="_blank"> <img src="https://vlang.io/img/v-logo.png" alt="vlang" width="80" height="80"/></a>
  <a href="julialang.org"><img src="https://julialang.org/assets/infra/logo.svg" width="80" height="80" alt="julia" /></a>
+ <a herf="https://dotnet.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="csharp" height="80" width="80" /></a>
 </p>
 
 
