@@ -31,11 +31,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Julia Resources](https://leapollo.hashnode.dev/julia-resources)
 - [Julia Crash Course](https://leapollo.hashnode.dev/julia-crash-course)
 - [Variables And Types In V.](https://leapollo.hashnode.dev/variables-and-types-in-v)
 - [Introducing V](https://leapollo.hashnode.dev/introducing-v)
 - [Deploying With Netlify!](https://leapollo.hashnode.dev/deploying-with-netlify)
-- [Setting Up Live Server Vs-code](https://leapollo.hashnode.dev/setting-up-live-server-vs-code)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
