@@ -4,11 +4,11 @@
 <p align="left"> <a href="https://twitter.com/AhmadsAxioms" target="blank"><img src="https://img.shields.io/twitter/follow/AhmadsAxioms?logo=twitter&style=for-the-badge" alt="Ahmad M G"/></a>
 </p>
 
-- 🌱 Aspiring BioInformatician. My Main languages are Julia and V.
-
+- 🌱 Aspiring BioInformatician. My Main languages are Julia and Javascript.
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmadsAxioms](https://github.com/AhmadsAxioms)
 
-- 📝 I regularly write articles on [https://leapollo.hashnode.dev/](https://leapollo.hashnode.dev/)
+- 📝 I regularly write articles on [https://leapollo.hashnode.dev/](https://leapollo.hashnode.dev/) about V/JULIA/JAVASCRIPT.
 
 - 📫 How to reach me **leapollo2005@gmail.com**
 
