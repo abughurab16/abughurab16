@@ -25,6 +25,7 @@
 <h3 align="left">Languages I use.</h3>
 <p>
  <a href="julialang.org"><img src="https://julialang.org/assets/infra/logo.svg" width="80" height="80" alt="julia" /></a>
+ <a href="javascript.com"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="80" height="80" alt="js"/></a>
  <a href="https://vlang.io" target="_blank"> <img src="https://vlang.io/img/v-logo.png" alt="vlang" width="80" height="80"/></a>
 </p>
 
