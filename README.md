@@ -43,7 +43,7 @@
 
 
 ![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=AhmadsAxioms&theme=tokyonight&show_icons=true&layout=demo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadsAxioms&hide=html,css,Vimscript&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AhmedsAxioms/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadsAxioms&hide=html,css,Vimscript,javascript&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AhmedsAxioms/github-readme-stats)
 
 
 
