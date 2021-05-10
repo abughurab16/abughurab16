@@ -26,7 +26,7 @@
 <p>
  <a href="julialang.org"><img src="https://julialang.org/assets/infra/logo.svg" width="80" height="80" alt="julia" /></a>
  <a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="80" height="80" alt="TypeScript"/></a>
- <a href="https://vuejs.org"><img src="https://vuejs.org/images/logo.png" width="80" height="80" alt="VueJs" /></a>
+<!--  <a href="https://vuejs.org"><img src="https://vuejs.org/images/logo.png" width="80" height="80" alt="VueJs" /></a> -->
 </p>
 
 
