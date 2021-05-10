@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/AhmadsAxioms" target="blank"><img src="https://img.shields.io/twitter/follow/AhmadsAxioms?logo=twitter&style=for-the-badge" alt="Ahmad M G"/></a>
 </p>
 
-- 🌱 Aspiring BioInformatician, Currently a Vue-TS developer. My Main languages are Julia and TypeScript.
+- 🌱 Aspiring BioInformatician. My Main language is Julia.
 - 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmadsAxioms](https://github.com/AhmadsAxioms)
 
@@ -25,8 +25,6 @@
 <h3 align="left">Languages I use.</h3>
 <p>
  <a href="julialang.org"><img src="https://julialang.org/assets/infra/logo.svg" width="80" height="80" alt="julia" /></a>
- <a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="80" height="80" alt="TypeScript"/></a>
-<!--  <a href="https://vuejs.org"><img src="https://vuejs.org/images/logo.png" width="80" height="80" alt="VueJs" /></a> -->
 </p>
 
 
