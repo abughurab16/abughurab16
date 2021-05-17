@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/AhmadsAxioms" target="blank"><img src="https://img.shields.io/twitter/follow/AhmadsAxioms?logo=twitter&style=for-the-badge" alt="Ahmad M G"/></a>
 </p>
 
-- 🌱 Web Developer and Biology Student, I use html/css/JS.
+- 🌱 Web Developer and Biology Student, I use html/css/JS And Julia for biology studies.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmadsAxioms](https://github.com/AhmadsAxioms)
 
@@ -24,7 +24,9 @@
 
 <h3 align="left">Languages I use.</h3>
 <p>
- <a href="nim-lang.org"><img src="https://nim-lang.org/assets/img/logo.svg" width="80" height="80" alt="julia" /></a>
+ <a href="julialang.org"><img src="https://julialang.org/assets/infra/logo.svg" width="80" height="80" alt="julia"/></a>
+ <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="80" height="80"/></a>
+ <a href="nim-lang.org"><img src="https://nim-lang.org/assets/img/logo.svg" width="80" height="80" alt="Nim" /></a>
 </p>
 
 
