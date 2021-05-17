@@ -26,7 +26,6 @@
 <p>
  <a href="julialang.org"><img src="https://julialang.org/assets/infra/logo.svg" width="80" height="80" alt="julia"/></a>
  <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="80" height="80"/></a>
- <a href="nim-lang.org"><img src="https://nim-lang.org/assets/img/logo.svg" width="80" height="80" alt="Nim" /></a>
 </p>
 
 
