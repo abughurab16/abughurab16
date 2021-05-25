@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmadsAxioms](https://github.com/AhmadsAxioms)
 
-- 📝 I regularly write articles on [https://leapollo.hashnode.dev/](https://leapollo.hashnode.dev/) about Julia and Nim and other languages.
+- 📝 I regularly write articles on [https://leapollo.hashnode.dev/](https://leapollo.hashnode.dev/) about things i'm working on or learning.
 
 - 📫 How to reach me **leapollo2005@gmail.com**
 
