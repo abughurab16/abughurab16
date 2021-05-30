@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/AhmadsAxioms" target="blank"><img src="https://img.shields.io/twitter/follow/AhmadsAxioms?logo=twitter&style=for-the-badge" alt="Ahmad M G"/></a>
 </p>
 
-- 🌱 Web Developer using the MERN stack and V language lover.
+- 🌱 Web Developer using the MERN stack.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmadsAxioms](https://github.com/AhmadsAxioms)
 
