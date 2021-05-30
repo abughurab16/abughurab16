@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmad Muhammed Galadima</h1>
-<h3 align="center">Maths is cool.</h3>
+<h1 align="center">Hi 👋, I'm Ahmad Muhammad Galadima or Abu Fahd</h1>
 
 <p align="left"> <a href="https://twitter.com/AhmadsAxioms" target="blank"><img src="https://img.shields.io/twitter/follow/AhmadsAxioms?logo=twitter&style=for-the-badge" alt="Ahmad M G"/></a>
 </p>
@@ -24,7 +23,6 @@
 
 <h3 align="left">Languages I use.</h3>
 <p>
- <a href="vlang.io"><img src="https://vlang.io/img/v-logo.png" width="80" height="80" alt="julia"/></a>
  <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="80" height="80"/></a>
  <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="80" height="80"/></a>
  <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="80" height="80"/></a>
