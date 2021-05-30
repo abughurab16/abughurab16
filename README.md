@@ -5,7 +5,7 @@
 
 - 🌱 Web Developer using the MERN stack.
 
-- 👨‍💻 All of my projects are available at [https://github.com/AhmadsAxioms](https://github.com/AhmadsAxioms)
+- 👨‍💻 All of my projects are available at [https://github.com/AbuFahd16](https://github.com/AbuFahd16)
 
 - 📝 I regularly write articles on [https://leapollo.hashnode.dev/](https://leapollo.hashnode.dev/) about things i'm working on or learning.
 
@@ -41,8 +41,8 @@
 <br>
 
 
-![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=AhmadsAxioms&theme=tokyonight&show_icons=true&layout=demo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadsAxioms&hide=Vimscript,&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AhmedsAxioms/github-readme-stats)
+![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=AbuFahd16&theme=tokyonight&show_icons=true&layout=demo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuFahd16s&hide=Vimscript,&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AbuFahd16/github-readme-stats)
 
 
 
