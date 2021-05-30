@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abu Fahd</h1>
+<h1 align="center">Hi 👋, I'm Abu Fahad</h1>
 
 <p align="left"> <a href="https://twitter.com/AhmadsAxioms" target="blank"><img src="https://img.shields.io/twitter/follow/AhmadsAxioms?logo=twitter&style=for-the-badge" alt="Ahmad M G"/></a>
 </p>
