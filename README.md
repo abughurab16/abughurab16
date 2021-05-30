@@ -42,7 +42,7 @@
 
 
 ![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=AbuFahd16&theme=tokyonight&show_icons=true&layout=demo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuFahd16s&hide=Vimscript,&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AbuFahd16/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuFahd16&hide=Vimscript,&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AbuFahd16/github-readme-stats)
 
 
 
