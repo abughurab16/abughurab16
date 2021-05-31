@@ -41,7 +41,7 @@
 <br>
 
 
-![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=AbuGhurab6&theme=tokyonight&show_icons=true&layout=demo)
+![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=AbuGhurab&theme=tokyonight&show_icons=true&layout=demo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuGhurab&hide=Vimscript,&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AbuGhurab/github-readme-stats)
 
 
