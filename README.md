@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abu Fahd</h1>
+<h1 align="center">Hi 👋, I'm Abu Ghurab</h1>
 
 <p align="left"> <a href="https://twitter.com/AhmadsAxioms" target="blank"><img src="https://img.shields.io/twitter/follow/AhmadsAxioms?logo=twitter&style=for-the-badge" alt="Ahmad M G"/></a>
 </p>
 
 - 🌱 Web Developer using the MERN stack.
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbuFahd16](https://github.com/AbuFahd16)
+- 👨‍💻 All of my projects are available at [https://github.com/AbuFahd16](https://github.com/AbuGhurab)
 
 - 📝 I regularly write articles on [https://leapollo.hashnode.dev/](https://leapollo.hashnode.dev/) about things i'm working on or learning.
 
@@ -41,8 +41,8 @@
 <br>
 
 
-![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=AbuFahd16&theme=tokyonight&show_icons=true&layout=demo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuFahd16&hide=Vimscript,&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AbuFahd16/github-readme-stats)
+![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=AbuGhurab6&theme=tokyonight&show_icons=true&layout=demo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuGhurab&hide=Vimscript,&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AbuGhurab/github-readme-stats)
 
 
 
