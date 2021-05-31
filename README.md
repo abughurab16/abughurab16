@@ -5,7 +5,7 @@
 
 - 🌱 Web Developer using the MERN stack.
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbuFahd16](https://github.com/AbuGhurab)
+- 👨‍💻 All of my projects are available at [https://github.com/AbuGhurab](https://github.com/AbuGhurab)
 
 - 📝 I regularly write articles on [https://leapollo.hashnode.dev/](https://leapollo.hashnode.dev/) about things i'm working on or learning.
 
