@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abu Ghurab</h1>
 
-<p align="left"> <a href="https://twitter.com/AhmadsAxioms" target="blank"><img src="https://img.shields.io/twitter/follow/AhmadsAxioms?logo=twitter&style=for-the-badge" alt="Ahmad M G"/></a>
+<p align="left"> <a href="https://twitter.com/abu_ghurab" target="blank"><img src="https://img.shields.io/twitter/follow/abu_ghurab?logo=twitter&style=for-the-badge" alt="Abu Ghurab"/></a>
 </p>
 
 - 🌱 Web Developer using the MERN stack.
