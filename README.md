@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abu AlKebulan/h1>
+<h1 align="center">Hi 👋, I'm Abu AlKebulan</h1>
 
 <p align="left"> <a href="https://twitter.com/abu_alkebulan" target="blank"><img src="https://img.shields.io/twitter/follow/abu_alkebulan?logo=twitter&style=for-the-badge" alt="Abu Ghurab"/></a>
 </p>
