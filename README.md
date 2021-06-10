@@ -5,9 +5,9 @@
 
 - 🌱 Web Developer using the MERN stack.
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbuAlKebulan](https://github.com/AbuAlKebulan)
+- 👨‍💻 All of my projects are available [here](https://github.com/abughurab16)
 
-- 📝 I regularly write articles on [https://leapollo.hashnode.dev/](https://leapollo.hashnode.dev/) about things i'm working on or learning.
+- 📝 I regularly write articles on [here](https://leapollo.hashnode.dev/) about things i'm working on or learning.
 
 - 📫 How to reach me **leapollo2005@gmail.com**
 
@@ -41,8 +41,8 @@
 <br>
 
 
-![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=AbuAlKebulan&theme=tokyonight&show_icons=true&layout=demo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuAlkebulan&hide=Vimscript,&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/AbuAlkebulan/github-readme-stats)
+![Abu Ghurab's github stats](https://github-readme-stats.vercel.app/api?username=abughurab16&theme=tokyonight&show_icons=true&layout=demo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abughurab16&hide=Vimscript,&exclude_repo=NConfig,SimpleMailSender,MLH_challenge,Website,XMoconfig&theme=tokyonight)](https://github.com/abughurab16/github-readme-stats)
 
 
 
