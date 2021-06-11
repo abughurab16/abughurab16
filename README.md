@@ -21,7 +21,7 @@
 </p>
 
 
-<h3 align="left">Languages I use.</h3>
+<h3 align="left">Languages And Frameworks I use.</h3>
 <p>
  <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" width="80" height="80" alt="Csharp"/></a>
 </p>
