@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/abughurab16)
 
-- 📝 I regularly write articles on [here](https://leapollo.hashnode.dev/) about things i'm working on or learning.
+<!-- - 📝 I regularly write articles on [here](https://leapollo.hashnode.dev/) about things i'm working on or learning. -->
 
 - 📫 How to reach me **leapollo2005@gmail.com**
 
@@ -19,14 +19,7 @@
 </p>
 
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Languages you may not be aware of.](https://leapollo.hashnode.dev/languages-you-may-not-be-aware-of)
-- [Julia Resources](https://leapollo.hashnode.dev/julia-resources)
-- [Julia Crash Course](https://leapollo.hashnode.dev/julia-crash-course)
-- [Variables And Types In V.](https://leapollo.hashnode.dev/variables-and-types-in-v)
-- [Introducing V](https://leapollo.hashnode.dev/introducing-v)
-<!-- BLOG-POST-LIST:END -->
+
 
 <br>
 
