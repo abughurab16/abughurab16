@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abu Ghurab</h1>
 
 
-- 🌱 C# Programmer.
+- 🌱 I develop websites for the web.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/abughurab16)
 
-<!-- - 📝 I regularly write articles on [here](https://leapollo.hashnode.dev/) about things i'm working on or learning. -->
+- 📝 I regularly write articles on [here](https://ghurabwrites.hashnode.dev/) about things i'm working on or learning.
 
 - 📫 How to reach me **leapollo2005@gmail.com**
 
@@ -15,7 +15,9 @@
 
 <h3 align="left">Languages And Frameworks I use.</h3>
 <p>
- <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" width="80" height="80" alt="Csharp"/></a>
+ <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="80" height="80" alt="javascript"/></a>
+ <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="80" height="80" alt="css"/></a>
+ <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="80" height="80" alt="html"/></a>
 </p>
 
 
