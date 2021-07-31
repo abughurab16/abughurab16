@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abu Ghurab</h1>
 
 
-- 🌱 I develop websites for the web.
+- 🌱 Aspiring MicroBiologist learning the Julia language
 
 - 👨‍💻 All of my projects are available [here](https://github.com/abughurab16)
 
@@ -12,13 +12,6 @@
 
 
 
-
-<h3 align="left">Languages And Frameworks I use.</h3>
-<p>
- <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="80" height="80" alt="javascript"/></a>
- <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="80" height="80" alt="css"/></a>
- <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="80" height="80" alt="html"/></a>
-</p>
 
 
 
