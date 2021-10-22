@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abu Ghurab</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Muhammad</h1>
 
 
 - 🌱 Aspiring BioChemist learning Python
